@@ -4,7 +4,7 @@
 
 ### Network Samples
 
-We provide the five 10% Tor network samples used for our Shadow simulations, each named `n1` through `n5`. Each network directory contains the cache files from the simulation results and the corresponding Shadow configuration files.
+We provide the five, 10% scaled, Tor network samples used for our Shadow simulations, each named `n1` through `n5`. Each network directory contains the cache files from the simulation results and the corresponding Shadow configuration files.
 
 For each network, we provide cached results for 24 hours of simulation across six configurations: one baseline and five carbon-aware configurations.
 
